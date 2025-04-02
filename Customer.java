@@ -2,7 +2,7 @@
 
 public class Customer {
     protected String phoneNumber;
-    protected String name;
+    protected String userName;
     protected String pizzaName;
     protected int quantity;
     protected double bill;
